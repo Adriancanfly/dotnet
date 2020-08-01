@@ -1,0 +1,16 @@
+D:\Projects\dotnet\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.csprojAssemblyReference.cache
+D:\Projects\dotnet\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.AssemblyInfoInputs.cache
+D:\Projects\dotnet\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.AssemblyInfo.cs
+D:\Projects\dotnet\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.exe
+D:\Projects\dotnet\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.deps.json
+D:\Projects\dotnet\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.runtimeconfig.json
+D:\Projects\dotnet\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.runtimeconfig.dev.json
+D:\Projects\dotnet\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.dll
+D:\Projects\dotnet\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.pdb
+D:\Projects\dotnet\TestLibrary\bin\Debug\netcoreapp3.1\MyLibrary.dll
+D:\Projects\dotnet\TestLibrary\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+D:\Projects\dotnet\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.csproj.CopyComplete
+D:\Projects\dotnet\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.dll
+D:\Projects\dotnet\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.pdb
+D:\Projects\dotnet\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.genruntimeconfig.cache
